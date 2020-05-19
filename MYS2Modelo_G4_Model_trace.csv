@@ -1,0 +1,3 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.0009375,Oleada.152,TransferNode4,2.RoutingOutLogic,[SetNode] NextDestination,Error assigning destination node value to entity object 'Oleada.152'. The entity does not have an assigned sequence table.
+
